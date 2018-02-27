@@ -1,0 +1,17 @@
+{
+	"name" : "Aplikasi sederhana untuk NF",
+	"short_name" : "PWANF",
+	"start_url" : "/index.html",
+	"display" : "standalone",
+	"orientation" : "potrait-primary",
+	"thema_color" : "#ed345f",
+	"background_color" : "#fff",
+	"description" : "aplikasi apapun itu lah",
+	"icons" : [
+		{
+			"src" : "https://cdn4.iconfinder.com/data/icons/new-google-logo-2015/400/new-google-favicon-512.png     
+			"type" : "image/png",
+			"size" : "199",
+		}
+	]
+}
